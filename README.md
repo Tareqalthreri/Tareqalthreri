@@ -2,7 +2,7 @@
 <h3 align="center">Developer in the Making | C++ & C# Learner | Future Desktop App Engineer</h3>
 
 <p align="center">
-Passionate about <b>software engineering</b>, driven by <b>algorithms, clean code</b>, and a lifelong love for <b>cars</b> 🚗💨
+Driven by <b>algorithms</b>, <b>clean code</b>, and building high-performance applications 🚀
 </p>
 
 ---
@@ -12,7 +12,6 @@ Passionate about <b>software engineering</b>, driven by <b>algorithms, clean cod
 - Preparing to learn **C#** for desktop application development  
 - Studying **Databases** (SQL, modeling, relational concepts)  
 - Interested in **algorithms** and writing clean, maintainable code  
-- Cars inspire my coding style: precision, speed, and design  
 
 ---
 
@@ -57,18 +56,20 @@ Passionate about <b>software engineering</b>, driven by <b>algorithms, clean cod
 
 ---
 
+## 📂 My Projects
+<p>
+  <a href="https://github.com/Tareqalthreri/CPlusPlus-Projects"><img alt="C++ Projects" src="https://img.shields.io/badge/C++_Projects-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+  <a href="https://github.com/Tareqalthreri/CSharp-Projects"><img alt="C# Projects" src="https://img.shields.io/badge/C%23_Projects-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+  <a href="https://github.com/Tareqalthreri/Web-Projects"><img alt="Web Projects" src="https://img.shields.io/badge/Web_Projects-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+</p>
+
+---
+
 ## 🎯 Goals
 - Master **C++ fundamentals & OOP**  
 - Start building **C# desktop applications**  
 - Strengthen understanding of **Databases**  
 - Keep improving **problem-solving & algorithmic thinking**  
-- Build a portfolio engineered with **clean code and passion**  
+- Build a portfolio engineered with **clean code and performance**
 
 ---
-
-## 🚘 Cars & Coding
-Cars inspire my work ethic: precision, design, and performance. Every project I do aims to reflect the same qualities.  
-
----
-
-<p align="center">This README represents my learning journey as I grow step by step toward becoming a professional desktop application and database developer.</p>
